@@ -9,4 +9,5 @@ To run the simulator press alt-cmd-0 and select
 if it dosn't start automatically just edit anything the code (adding a space) 
 
 ### simulatorButtonAnimated
-playground running in simulator with an uibutton having a ridimensioning and color changing animation, that appens when touched.
+playground running in simulator with an UIButton.
+When the button is touched it perform an animation, changing his color and dimension; when released it go back to the original appearence.
