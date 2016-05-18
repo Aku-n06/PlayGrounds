@@ -1,4 +1,7 @@
 #Playgrounds
+
+##### [ Deprecated! this is no more working with new playgrounds ]
+
 ### simulatorBasePlayground
 base playground running in the simulator.
 Really useful to prototype code that use user interaction (like gestures), otherwise impossible in the playground itself.
